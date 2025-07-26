@@ -6,4 +6,4 @@ Files include:
 - Slideshow
 
 
-[Watch the presentation on youtube](link)
+[Watch the presentation on youtube](https://youtu.be/dEYOu3Aid0k)
