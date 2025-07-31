@@ -3,4 +3,4 @@ Final capstone project for my AI Ethics course, focused on uncovering and analyz
 
 Files include:
 - Research paper
-- [Watch the presentation on youtube](https://youtu.be/dEYOu3Aid0k)
+<!-- - [Watch the presentation on youtube](https://youtu.be/dEYOu3Aid0k) -->
